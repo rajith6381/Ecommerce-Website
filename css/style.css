@@ -1,0 +1,22 @@
+.container{
+    width: 90%;
+    margin:auto;
+}
+.cords{
+    text-align: center;
+}
+.dol i{
+    background-color: black;
+}
+.aicon i{
+    background-color: black;
+    color: aliceblue;
+}
+.prodect{
+    height:150px;
+
+
+}
+.card{
+    height: 100px;
+}
